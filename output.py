@@ -5,7 +5,7 @@ A simple Python console game where you play Rock, Paper, Scissors against the co
 ## 🎮 How to Play
 
 - Run the Python file.
-- Type `rock`, `paper`, or `scissors` when asked.
+- Type 'rock', 'paper', or 'scissors' when asked.
 - See who wins!
 
 ## 🖥️ Sample Output
